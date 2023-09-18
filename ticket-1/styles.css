@@ -50,3 +50,7 @@ button.delete {
 button.delete:hover {
   background-color: #c94d4d;
 }
+#addItemBtn {
+  background-color: #4caf50;
+}
+
